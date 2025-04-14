@@ -21,7 +21,6 @@ public class shoppingList {
         System.out.println("- Tomato Sauce");
         System.out.println("- Coffee Beans");
         System.out.println("- Orange Juice");
-        System.out.println("------------------------");
 
     }
 }
